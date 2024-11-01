@@ -2,4 +2,4 @@
 
 ..in Python
 
-<img src = "die.png" width = "500" height = "400">
+<img src = "img/simulate.png" width = "500" height = "400">
